@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5c3c22bc043ace212fedea53e5a550ad669bff60796edb08a37923397dd7aca1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "5ce7b6c90ad1d0ccbb898f362739e5751797d93a83a135396b50b653f1c6aaaai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  }
+]
