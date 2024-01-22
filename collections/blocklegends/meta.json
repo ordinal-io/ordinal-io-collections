@@ -1,10 +1,10 @@
 {
-  "description": "BlockLegends is an original Bitcoin art collection, with our community housing unique legends sprung from millions of possibilities. Every character is handcrafted, imbued with individuality, spanning from warriors to wizards, cute to futuristic styles, reflecting the diversity just as our community members do.",
+  "name": "BlockLegends",
+  "slug": "BlockLegends",
+  "supply": "10000",
+  "description": "\"BlockLegends\" is an original Bitcoin art collection, with our community housing unique legends sprung from millions of possibilities. Every character is handcrafted, imbued with individuality, spanning from warriors to wizards, cute to futuristic styles, reflecting the diversity just as our community members do.",
+  "twitter_link": "https://twitter.com/blocklegends_io",
   "discord_link": "https://discord.gg/6JUBBfQQgx",
-  "icon": "9cdba06b4bb0ef2055d8bf472b48cb51ebcc61fb55e3d1566ca5b5b1d4d4714ei0",
-  "inscription_icon": "9cdba06b4bb0ef2055d8bf472b48cb51ebcc61fb55e3d1566ca5b5b1d4d4714ei0",
-  "name": "Block Legends",
-  "slug": "blocklegends",
-  "twitter_link": "",
-  "website_link": "https://blocklegends.io"
+  "website_link": "https://blocklegends.io",
+  "inscription_icon": "415fe6d6758d11b037c88da8c7a8ad91656e361acec3d120601411652e0b93a9i0"
 }
