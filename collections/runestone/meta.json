@@ -1,8 +1,8 @@
 {
   "slug": "runestone",
   "name": "Runestone",
-  "icon": "",
-  "inscription_icon": "",
+  "icon": "fdb2df5d2b16db1ebcbf09e2d23b3f4e417db44b58e712c99b61f26b52c7cbb5i0",
+  "inscription_icon": "fdb2df5d2b16db1ebcbf09e2d23b3f4e417db44b58e712c99b61f26b52c7cbb5i0",
   "supply": 112384,
   "description": "Runestone is an open source, transparent, volunteer, and decentralized initiative to reward people who participated in the first year of the Ordinals Protocol.",
   "discord_link": "https://discord.com/invite/runestone",
